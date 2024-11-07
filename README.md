@@ -24,4 +24,4 @@ Fullstack developer
 
 ### Badges
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystalixxx&show_icons=true&theme=dark)](https://github.com/crystalixxx) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystalixxx&theme=dark)](https://github.com/crystalixxx) \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystalixxx&theme=dark)](https://github.com/crystalixxx)
