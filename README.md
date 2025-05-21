@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
-- 💬 Ask me about **Python, FastAPI, SQL, Backend**
+- 💬 Ask me about **C++, Backend, Python, FastAPI, SQL**
 
-- 📫 How to reach me **tg: @drugovmb, email: midrugov@edu.hse.ru**
+- 📫 How to reach me **tg: @drugovmb, email: drugovmaxim@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
